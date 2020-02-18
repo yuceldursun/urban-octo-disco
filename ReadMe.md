@@ -1,2 +1,1 @@
-Test Dosyası
-AAA 
+Test Dosyas
